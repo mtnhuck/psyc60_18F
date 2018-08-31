@@ -5,11 +5,12 @@ This repository will host resources and tutorials for Psych 60. They will be upd
 
 *Teaching assistant: Kirsten Ziman*
 
-[Prelab: Basic linux tutorial](https://ryanstutorials.net/linuxtutorial/) Please read and work through the main page and sections 1-5,7,14. Please see the instructor or TA if you need help getting to or installing a terminal on your laptop. If you don't have a laptop you can bring to class please let Jeremy know.
+Prelab: [ Basic linux tutorial](https://ryanstutorials.net/linuxtutorial/) Please read and work through the main page and sections 1-5,7,14. Please see the instructor or TA if you need help getting to or installing a terminal on your laptop. If you don't have a laptop you can bring to class please let Jeremy know.
 
 # Brain anatomy refreshers
 
 [Julian Casper's anatomy guidelines](https://www.humanbrainmapping.org/files/2017/ED%20Courses/Course%20Materials/Anatomy_Caspers_Julian.pdf)
+
 [3d Brain](https://www.brainfacts.org/3D-Brain#intro=false&focus=Brain-cerebral_hemisphere-right)
 
 Some of these resources are from [here](https://pbeukema.github.io/labhacks/#fmri)
