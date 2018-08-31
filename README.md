@@ -1,4 +1,4 @@
-# Resources for Psych 60
+# Psych 60
 This repository will host resources and tutorials for Psych 60. They will be updated throughout the term available on the class server.
 
 *Instructor: Jeremy Huckins*
