@@ -1,7 +1,7 @@
 # Resources for Psych 60
 This repository will host resources and tutorials for Psych 60. They will be updated throughout the term and 
 
-*Instructor: Jeremy Huckins *
+*Instructor: Jeremy Huckins*
 
 *Teaching assistant: Kirsten Ziman*
 
