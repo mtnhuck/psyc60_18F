@@ -48,7 +48,7 @@ Some of these resources are from [here](https://pbeukema.github.io/labhacks/#fmr
 
 [Explanation of k-space and image through FT](https://www.youtube.com/watch?v=FI5frNsRTI4)
 
-# Other resources
+# Other MRI resources
 [http://mriquestions.com/index.html](http://mriquestions.com/index.html)
 
 [https://practicalfmri.blogspot.com/](https://practicalfmri.blogspot.com/)
@@ -57,8 +57,17 @@ Some of these resources are from [here](https://pbeukema.github.io/labhacks/#fmr
 
 [Explanation of MRI with good figures](https://www.researchgate.net/publication/49645994_Cardiovascular_magnetic_resonance_physics_for_clinicians_Part_I)
 
+# Online Classes
+[Online Brain Intensive](https://www.onlinebrainintensive.com/)
+
+[Dartmouth Summer MIND](https://summer-mind.github.io/2017.html)
+
 # 3D Print your MRI
 [Method 1: Graphical walk-through](https://imgur.com/a/3mFsX)
 
 [Method 2: A docker container for 3D printing a brain](https://github.com/danjonpeterson/brain_printer)
 As a note, Jin mentioned that before printing you may want to merge the hemispheres in MeshLab.
+
+# Programming resources
+[Git tutorial - version control for code](https://swcarpentry.github.io/git-novice/)
+
