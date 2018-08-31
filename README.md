@@ -1,9 +1,11 @@
 # Psych 60, Fall 2018
-This repository will host resources and tutorials for Psych 60. They will be updated throughout the term available on the class server.
+This repository will host resources and tutorials for Psych 60. They will be updated throughout the term available on the class server. 
 
 *Instructor: Jeremy Huckins*
 
 *Teaching assistant: Kirsten Ziman*
+
+No programming experience is expected for this course, although some will be taught throughout the term and you will be expected to complete an independent project which may involve some coding.
 
 Prelab: [ Basic linux tutorial](https://ryanstutorials.net/linuxtutorial/) Please read and work through the main page and sections 1-5,7,14. Please see the instructor or TA if you need help getting to or installing a terminal on your laptop. If you don't have a laptop you can bring to class please let Jeremy know.
 
