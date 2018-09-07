@@ -72,36 +72,8 @@ Some of these resources are from [here](https://pbeukema.github.io/labhacks/#fmr
 As a note, Jin mentioned that before printing you may want to merge the hemispheres in MeshLab.
 
 # Programming resources
-[Linux](https://ryanstutorials.net/linuxtutorial/)
-
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [Git tutorial - version control for code](https://swcarpentry.github.io/git-novice/)
 
 [Whilrwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
-
-# fMRI analysis resources
-[nipype](https://nipype.readthedocs.io/en/latest/)
-
-[nilearn](https://nilearn.github.io/)
-
-[fsl](http://fsl.fmrib.ox.ac.uk)
-
-[freesurfer](http://freesurfer.net/)
-
-[afni](https://afni.nimh.nih.gov/)
-
-[fmriprep - based on nipype](https://github.com/poldracklab/fmriprep)
-
-[SPM](https://www.fil.ion.ucl.ac.uk/spm/)
-
-[C-PAC](https://fcp-indi.github.io/docs/user/index.html)
-
-# Reproducible neuroscience links and tools
-[Datalad - download and manage data](https://www.datalad.org)
-
-[Docker - run applications from a container, usually locally](https://www.docker.com)
-
-[Singularity - containers that can be run on servers for large scale implementation](https://www.sylabs.io)
-
-[Singularity tutorial](https://github.com/NIH-HPC/Singularity-Tutorial)
