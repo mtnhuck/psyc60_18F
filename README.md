@@ -28,13 +28,8 @@ You also have personal space which would be accessed through the above syntax /d
 ## Prelab
 [ Basic linux tutorial](https://ryanstutorials.net/linuxtutorial/) Please read and work through the main page and sections 1-5,7,14. Please see the instructor or TA if you need help getting to or installing a terminal on your laptop. If you don't have a laptop you can bring to class please let Jeremy know.
 
-
 # Lab 1
 [Connecting to our server - Jupyter Notebooks](Notebooks/IntroductionToJupyterNotebooks.ipynb)
-
-# Review questions from Huettel 3rd eddition
-
-[Huettel Review](http://sites.sinauer.com/fmri3e/)
 
 # Brain anatomy refreshers
 
